@@ -1,3 +1,5 @@
 # ProjectMegaFlora1
 
-A game made in Unreal
+A third person brawler made in Unreal Engine 5.
+
+![PrototypeDam](ReadmeImages/PrototypeScreenshot1.png)

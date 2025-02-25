@@ -15,5 +15,5 @@ class PROJECTMEGAFLORA_API UFileManipulation : public UBlueprintFunctionLibrary
 	GENERATED_BODY()
 public:
 	UFUNCTION(BlueprintCallable, Category = "FileManagement")
-	static void DeleteFile(const FString& MyFile);
+	static void DeleteFile(const FString& FilePath);
 };

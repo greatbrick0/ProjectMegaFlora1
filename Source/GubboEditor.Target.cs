@@ -3,9 +3,9 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class ProjectMegaFloraEditorTarget : TargetRules
+public class GubboEditorTarget : TargetRules
 {
-	public ProjectMegaFloraEditorTarget(TargetInfo Target) : base(Target)
+	public GubboEditorTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V5;
